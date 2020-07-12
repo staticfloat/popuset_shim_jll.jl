@@ -1,0 +1,11 @@
+name = "popuset_shim_jll"
+uuid = "cda8bdfc-82c4-5e04-8e46-2d351740fb6c"
+version = "0.0.1+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+libportaudio_jll = "2d7b7beb-0762-5160-978e-1ab83a1e8a31"
+
+[compat]
+julia = "1.0"
