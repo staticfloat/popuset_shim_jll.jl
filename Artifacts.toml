@@ -5,7 +5,7 @@ libc = "glibc"
 os = "linux"
 
     [[popuset_shim.download]]
-    sha256 = "a58a526fb510cb31995f8f19182ad0a0fda11b3200fdc79b2ae426de4311296b"
+    sha256 = "5725fbe097b9112eafe5cacf75a056f7a50be158d14247dcf23c2ece64d7bf98"
     url = "https://github.com/staticfloat/popuset_shim_jll.jl/releases/download/popuset_shim-v0.0.1+0/popuset_shim.v0.0.1.armv7l-linux-gnueabihf.tar.gz"
 [[popuset_shim]]
 arch = "x86_64"
@@ -13,7 +13,7 @@ git-tree-sha1 = "2f365aa2c3cd6ca928c3b0d3d7092397eb0f0cb4"
 os = "macos"
 
     [[popuset_shim.download]]
-    sha256 = "e7d55605587c447e09a49930c0df3387115eda02cc2988c3f3cd1148cd6c2967"
+    sha256 = "ea8740eeba982706566777770bd5cb57f25ed9c35a112a9c66d0425d97854cc8"
     url = "https://github.com/staticfloat/popuset_shim_jll.jl/releases/download/popuset_shim-v0.0.1+0/popuset_shim.v0.0.1.x86_64-apple-darwin14.tar.gz"
 [[popuset_shim]]
 arch = "x86_64"
@@ -22,5 +22,5 @@ libc = "glibc"
 os = "linux"
 
     [[popuset_shim.download]]
-    sha256 = "27767dec149f3515a307fa80931bcddc09b6819ea9a53041a465f30dd8d18c63"
+    sha256 = "15ef9efc92e60c20f5c56ca1faf34abcc4bcc8b90f532d1f94aa63abea67b472"
     url = "https://github.com/staticfloat/popuset_shim_jll.jl/releases/download/popuset_shim-v0.0.1+0/popuset_shim.v0.0.1.x86_64-linux-gnu.tar.gz"
